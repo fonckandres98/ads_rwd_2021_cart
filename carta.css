@@ -1,0 +1,32 @@
+.conteudo{ text-align: center;}
+.conteudo{ size: 15%;}
+.conteudo{ align-items: center;}
+.conteudo{ border: 2px solid  ; }
+.titulo{ padding: 25px;}
+.paragrafo{ font-family: Arial, Helvetica, sans-serif ;size: 25%; padding: 25px;}
+
+.conteudo{ max-width: 50%;}
+.conteudo{margin-top: 100px;
+    margin-right: 25%;
+    margin-bottom: 10px;
+    margin-left:25%;}
+    .enlace{ padding: 15%;}
+    a{ text-decoration: none;
+        background-color: #e1600a;
+        color: #f0eeee;
+        border: 1px solid #8749c0;
+        border-radius: 3px;
+        padding: 10px 20px;    
+        font-family: Arial, Helvetica, sans-serif;    
+        font-weight: 700;}
+        a:hover{ background: yellow; color: tomato;}
+
+        h1{background: yellow;}
+
+        .co{width: 15%; float: left;}
+        footer{ font-style: oblique;}
+        .conteudo{width: 500px;
+            height: 900px;
+            background-image: url(https://www.pexels.com/pt-br/foto/pessoa-com-aviao-de-brinquedo-no-mapa-mundial-3769138/);}
+ 
+   
